@@ -1,0 +1,68 @@
+﻿# .NET build artifacts
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Rider files
+.idea/
+*.sln.iml
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Build results
+[Dd]ebugPublic/
+[Rr]eleases/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Local development settings
+appsettings.Development.json
+appsettings.local.json
+appsettings.*.json
+!appsettings.json
+
+# User-specific files
+*.rsuser
+*.dtbcache
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+*.swp
+*~
+*.DS_Store
